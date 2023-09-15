@@ -1,6 +1,6 @@
 # Lightning Streams
 
-An example of a simple `stream and batch query` made by implementing PySpark, python API of [Apache Spark™](https://spark.apache.org/), queries on a Lightning flash dataset collected from NOAA's GLM.
+An example of a simple `stream and batch query` made by implementing PySpark, python API of [Apache Spark™](https://spark.apache.org/), queries on a Lightning flash dataset collected from [NOAA's GLM](https://www.goes-r.gov/spacesegment/glm.html).
 Uses [Apache Parquet](https://parquet.apache.org/) file format as the storage backend and [Dagster Software-Defined Assets](https://docs.dagster.io/concepts/assets/software-defined-assets) to orchestrate the batch/stream processing pipeline.
 
 Blog post: Coming soon!
