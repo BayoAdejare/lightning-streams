@@ -158,7 +158,5 @@ def sink(context, transformations):
     # navigate to folder
     os.chdir(load_folder)
     db_load = load_tables(load_folder)
-    # db_stream = stream_db(duckdb)
     results.append(db_load)
-    # results.append(db_stream)
     return results
