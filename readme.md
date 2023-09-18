@@ -3,7 +3,7 @@
 An example of a simple `stream and batch query` made by implementing PySpark, python API of [Apache Spark™](https://spark.apache.org/), queries on a Lightning flash dataset collected from [NOAA's GLM](https://www.goes-r.gov/spacesegment/glm.html).
 Uses [Apache Parquet](https://parquet.apache.org/) file format as the storage backend and [Dagster Software-Defined Assets](https://docs.dagster.io/concepts/assets/software-defined-assets) to orchestrate the batch/stream processing pipeline.
 
-Blog post: Coming soon!
+Blog post: [Lightning Streams: PySpark Batch & Streaming Queries](https://bayoadejare.medium.com/lightning-streams-pyspark-batch-streaming-queries-f13fc6a68cb6)
 
 |<a href="img/main_tech_stack.png" align="center"><img src="img/main_tech_stack.png" alt="Technologies used and respective logos" width="800px"/></a>
 |:--:|
